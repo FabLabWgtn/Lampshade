@@ -164,7 +164,9 @@ Now in the vector drawing software, make sure you:
 
 💡 *our goal here is to have as few lines as possible, because the more lines we have, the longer it will take to cut. So choose your design wisely to avoid a 1h30 cut time!*
 
-![](/images/image10.jpg) *examples of illustrations downloaded from The Noun Project and “cleaned” to create our Lampshade design*
+![](/images/image10.jpg)
+
+*examples of illustrations downloaded from The Noun Project and “cleaned” to create our Lampshade design*
 
 
   **→  we’re now ready to create your “illustration pattern” over the whole Lampshade**
@@ -198,13 +200,17 @@ Now in the vector drawing software, make sure you:
   - The thick black lines are guides to align your design with the first petal of the Lampshade
 
 
-![](/images/image3.jpg) *what the Lampshade template looks like in Illustrator*
+![](/images/image3.jpg)
+
+*what the Lampshade template looks like in Illustrator*
 
 ----------
 
 **step 2.3 - create your own “petal-sized” design from the illustration you chose**
 
-![](/images/image11.jpg) *adapting & replicating our illustration to create a petal-sized design*
+![](/images/image11.jpg)
+
+*adapting & replicating our illustration to create a petal-sized design*
 
 Functions & tools involved
 
@@ -242,7 +248,9 @@ Now in the vector drawing software, make sure you:
 
 **step 2.4 - replicate your custom petal around the Lampshade**
 
-![](/images/image12.jpg) *all 3 steps from one illustration to a whole custom Lampshade*
+![](/images/image12.jpg)
+
+*all 3 steps from one illustration to a whole custom Lampshade*
 
 Functions & tools involved
 
@@ -275,7 +283,9 @@ Now in the vector drawing software, make sure you:
 
   →  **your custom lamp design is now almost ready to cut :)**
 
-![](/images/image13.jpg) *other custom Lampshade designs*
+![](/images/image13.jpg)
+
+*other custom Lampshade designs*
 
 ----------
 **step 2.5 - custom you acrylic fitting to your light socket size**
@@ -345,12 +355,16 @@ Troubleshooting tips before cutting the lamp & the acrylic fitting
 
 ## 5️⃣  **crease the lamp**
 
-![](/images/image5.jpg) *a ready-to-fold Lampshade & a finished model*
+![](/images/image5.jpg)
+
+*a ready-to-fold Lampshade & a finished model*
 
 
   - Now that our lamp is cut, we want to crease it & gently encourage it to be the shape it secretly wants to be! Don’t try to fold it straight away for it would ruin the result!
 
-![](/images/image6.jpg) *the creasing instructions*
+![](/images/image6.jpg)
+
+*the creasing instructions*
 
 
   - The top of your lamp will be the outside, while the bottom (with the slight burnt traces from the laser cutter) will be the inside.
@@ -365,7 +379,9 @@ Troubleshooting tips before cutting the lamp & the acrylic fitting
 ![](/images/image6a.jpg)
 ![](/images/image6b.jpg)
 
-![](/images/image7.jpg) *what the Lampshade inside looks like once creased and all latches attached*
+![](/images/image7.jpg)
+
+*what the Lampshade inside looks like once creased and all latches attached*
 
 
   - Remember to take time check the creasing lines around the whole lamp & creasing just a little more where needed to get a nice, consistent symmetrical result!
@@ -376,7 +392,7 @@ Troubleshooting tips before cutting the lamp & the acrylic fitting
 
 ## 6️⃣  **wire the lamp**
 
-⛔️ ⚠️  ***Wiring up electrical appliances is a serious matter and the results of an amateur job could be devastating for your you & those around you. The Internet is not enough and bad/insufficient advices are too common. So if you’ve never done it before, I very strongly recommend you to seek help in a local Fab Lab or to someone with the right experience / expertise to walk through it.***
+⛔️ ⚠️  ***Wiring up electrical appliances is a serious matter and the results of an amateur job could be devastating for you & those around you. The Internet is not enough and bad/insufficient advices are too common. So if you’ve never done it before, I very strongly recommend you to seek help in a local Fab Lab or to someone with the right experience / expertise to walk through it.***
 
 The steps are to:
 

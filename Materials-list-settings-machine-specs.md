@@ -9,7 +9,9 @@ To create our lamps, we only used a laser cutter (machine/process available in m
 - powered with a 105W laser unit
 - with a bed-size of 1219.2mm x 609.7mmm
 
-![](/images/image20.jpg) *Fab Lab Wgtn’s laser cutter!*
+![](/images/image20.jpg)
+
+*Fab Lab Wgtn’s laser cutter!*
 
 ----------
 ## **Material tests**
@@ -24,7 +26,9 @@ We also tested the following materials for the lamp without much success
 - **0.45mm craft paper was too thick**, it made the creasing too difficult
 - **0.15mm & 0.20mm craft paper was too thin**, the final structure couldn’t hold itself
 
-![](/images/image9.jpg) *Fab Lab Wgtn Lampshade, made of white polypropylene with a yellow fluo acrylic fitting*
+![](/images/image9.jpg)
+
+*Fab Lab Wgtn Lampshade, made of white polypropylene with a yellow fluo acrylic fitting*
 
 
 ----------
@@ -49,6 +53,7 @@ All vectors, print in order. The **settings on the picture are for the 0.6mm pol
 
 
 ![](/images/image4.jpg)
+
 *the Universal laser laser cutter material settings for 0.6mm polypropylene (we used red for cutting and green for creasing lines & our design)*
 
 

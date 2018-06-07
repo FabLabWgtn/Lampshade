@@ -10,6 +10,7 @@ Wendy Neale, Designer and Director of [Fab Lab Wgtn](https://www.fablabwgtn.co.n
 After the four-day event, she collaborated with Etienne Moreau, Technical Demonstrator at [Fab Lab Wgtn](https://www.fablabwgtn.co.nz/) in New Zealand from February to July 2018, to work on the lamp prototype she started and create a 2-hour workshop to help people learn to make their own custom lampshades! Along with the file and material settings, you’ll find the workshop run-sheet including steps to learn how to do it on your own!
 
 ![](/images/image9.jpg)
+
 *Fab Lab Wgtn Lampshade*
 
 ----------
@@ -51,6 +52,7 @@ So far, we made great lampshades out of
 - and **3mm acrylic** (for the light socket fitting)
 
 ![](/images/image1.jpg)
+
 *Fab Lab Wgtn Lampshade, made of white polypropylene with a yellow fluo acrylic fitting*
 
 ----------
@@ -77,10 +79,12 @@ The page size is equal to our laser cutter bed size. There are 6 layers in the d
   - The thick black lines are guides to align your design with the first petal of the Lampshade
 
 ![](/images/image3.jpg)
+
 *what the Lampshade vector template looks like in Illustrator*
 
 
 ![](/images/image5.jpg)
+
 *a ready-to-fold Lampshade & a finished model*
 
 ----------
