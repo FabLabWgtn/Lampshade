@@ -2,10 +2,11 @@
 
 Wendy Neale, Designer and Director of [Fab Lab Wgtn](https://www.fablabwgtn.co.nz/), in New Zealand was the Mentor-in-Residence at [Fab Lab UAE](http://fablabuae.ae/) from January to July 2018, during Fab Academy. In the fifth week of Fab Academy, the Lab hosted the first Mini MakerFaire in the UAE. Fab Lab UAE asked her to design a paper lampshade for some casual workshops that would run during the four-day event. Here is what she did:
 
+With everything else going on in the Lab, I found myself with only a couple of days to prepare, so I spent some time cutting and folding paper and trying out some ideas. I needed to work more quickly, so I decided to build on some existing work rather than developing it from the beginning. Looking at the Crease Patterns created by RJ Lang, I decided to adapt the CamphorPot8, opus 679. Referencing this pattern added to the story as I was able to talk about the work he did on the [Deployable Solar Array](https://compliantmechanisms.byu.edu/node/892), where he built on someone else's work, showing the benefit of not starting from zero. It's also a great example of the broader uses of paper-folding!
 
-  “With everything else going on in the Lab, I found myself with only a couple of days to prepare, so I spent some time cutting and folding paper and trying out some ideas. I needed to work more quickly, so I decided to build on some existing work rather than developing it from the beginning. Looking at the Crease Patterns created by RJ Lang, I decided to adapt the CamphorPot8, opus 679. Referencing this pattern added to the story as I was able to talk about the work he did on the [Deployable Solar Array](https://compliantmechanisms.byu.edu/node/892), where he built on someone else's work, showing the benefit of not starting from zero. RJ Lang's website is full of great patterns that he has developed, and if you look around it, you will find that he has very clear copyright statements. He is open to uses of his patterns for educational purposes as long as you have his written permission and always give credit to him for his crease patterns.
+RJ Lang's website is full of great patterns that he has developed, and if you look around it, you will find that he has very clear copyright statements. He is open to uses of his patterns for educational purposes as long as you have his written permission and always give credit to him for his crease patterns.
 
-  I drew up a file in Illustrator and tested it and modified it a number of times. One day, I might make it in something else, but I was in a hurry and wasn't too concerned about other people being able to edit it.”
+I drew up a file in Illustrator and tested it and modified it a number of times. One day, I might make it in something else, but I was in a hurry and wasn't too concerned about other people being able to edit it.”
 
 After the four-day event, she collaborated with Etienne Moreau, Technical Demonstrator at [Fab Lab Wgtn](https://www.fablabwgtn.co.nz/) in New Zealand from February to July 2018, to work on the lamp prototype she started and create a 2-hour workshop to help people learn to make their own custom lampshades! Along with the file and material settings, you’ll find the workshop run-sheet including steps to learn how to do it on your own!
 
@@ -25,7 +26,6 @@ The lamp’s story is a great illustration of what we can make & achieve in an o
 
 
 **Files in this repo**
-
 
   - the **DIY instructions & workshop runsheet** for you to make your own lamps and/or create a workshop locally about this Lampshade
   - the **Materials list, settings & machine specs**
@@ -99,3 +99,5 @@ The page size is equal to our laser cutter bed size. There are 6 layers in the d
   - **machine needed** - laser cutter with at least a 500 x 500mm bed
   - **software needed** - vector drawing software like Inkscape or Illustrator
   - **advised material** - for each lamp, a 500mm x 500mm piece of 0.6mm white polypropylene or 0.35mm colored paper + a 85 x 80 piece of 3mm acrylic
+
+![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](/images/88x31.png)
