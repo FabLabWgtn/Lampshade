@@ -10,7 +10,7 @@ The lamp’s story is a great illustration of what we can make & achieve in an o
 ![](/images/image9.jpg)
 > *Fab Lab Wgtn Lampshade, made of white polypropylene with a yellow fluo acrylic fitting*
 
--
+--
 
 **WORKSHOP LAYOUT**
 
@@ -34,14 +34,14 @@ The lamp’s story is a great illustration of what we can make & achieve in an o
   - **material to be cut** - for each lamp, a 500x500mm piece of 0.6mm white polypropylene or 0.35mm colored paper + a 85x80mm piece of 3mm acrylic
 
 
--
+--
 
 **WORKSHOP EVENT DESCRIPTION EXAMPLE**
 
 
   As long autumn-winter nights are upon us, Fab Lab Wgtn team prepared something special to make our homes a little cosier! Join us for this hands-on session to learn to make your DIY origami lamp & customise it while having a great time together in our community workshop 😄
 
--
+--
 
 **WORKSHOP OUTLINE**
 
@@ -69,7 +69,7 @@ The lamp’s story is a great illustration of what we can make & achieve in an o
 
   - if you don’t have one already, **download a vector drawing software like Adobe Illustrator (not free) or Inkscape (free) and learn the basics through tutorials!**
 
--
+--
 
 **BEFORE RUNNING A LAMPSHADE WORKSHOP ⚠️**
 
@@ -119,7 +119,7 @@ The lamp’s story is a great illustration of what we can make & achieve in an o
 
 > *read for more context about lighting at home & for well-being, these pictures are taken from* [*The Little Book of Hygge: Danish Secrets to Happy Living*](https://www.theguardian.com/books/2016/sep/29/book-of-hygge-louisa-thomsen-brits-review) *written by Meik Wiking*
 
--
+--
 
 ![](/images/image14.jpg)
 ![](/images/image15.jpg)
@@ -128,7 +128,7 @@ The lamp’s story is a great illustration of what we can make & achieve in an o
 ![](/images/image18.jpg)
 ![](/images/image19.jpg)
 
--
+--
 
 - **why make a lamp ourselves instead of buying one?**
 
@@ -142,7 +142,7 @@ The lamp’s story is a great illustration of what we can make & achieve in an o
 
   - you’ll start taking control back over the objects & physical world around you (invent, repair, adapt, make things again)
 
--
+--
 
 - **key take-aways about lighting for well-being**
 
@@ -188,7 +188,7 @@ The lamp’s story is a great illustration of what we can make & achieve in an o
 
 > 💡  *we use Adobe Illustrator at Fab Lab Wgtn - hence, the following instructions are named after the Illustrator ones, but you’ll easily find how to do it in another software on Google!*
 
--
+--
 
 **step 2.1 - “clean” the illustration you just downloaded**
 
@@ -230,7 +230,7 @@ Now in the vector drawing software, make sure you:
 
   - The page size is equal to Fab Lab Wgtn laser bed size (1219 x 609mm). There are 6 layers in the document and 3 artboards (the Universal laser cutter print driver can deal with more than one artboard).
 
--
+--
 
   - **The 3 art-boards are**:
 
@@ -238,7 +238,7 @@ Now in the vector drawing software, make sure you:
     - art-board 2 (below) - to work on your very own lamp design
     - art-board 3 (right) - to cut the acrylic fitting
 
--
+--
 
   - **The 6 layers are**:
 
@@ -249,7 +249,7 @@ Now in the vector drawing software, make sure you:
     - the acrylic fitting (on art-board 3 - on the right side)
     - the logos & credits for the acrylic fitting (on art-board 3 - on the right side)
 
--
+--
 
 - **The black guides are**:
 
@@ -269,7 +269,7 @@ Now in the vector drawing software, make sure you:
 
 > *adapting & replicating our illustration to create a petal-sized design*
 
--
+--
 
 > Functions & tools involved
 
@@ -311,7 +311,7 @@ Now in the vector drawing software, make sure you:
 
 > *all 3 steps from one illustration to a whole custom Lampshade*
 
--
+--
 
 > Functions & tools involved
 
@@ -450,7 +450,7 @@ Now in the vector drawing software, make sure you:
 - **step 4** - gently squeeze each male latch inside each adjacent female latch
 - **step 5** - once you’ve attached all the latches together, the lamp should fold itself into its final shape
 
--
+--
 
 ![](/images/image6a.jpg)
 ![](/images/image6b.jpg)
