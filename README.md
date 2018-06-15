@@ -12,92 +12,123 @@ After the four-day event, she collaborated with Etienne Moreau, Technical Demons
 
 ![](/images/image9.jpg)
 
-*Fab Lab Wgtn Lampshade*
+> *Fab Lab Wgtn Lampshade*
 
 ----------
 
-## **Basic infos**
-
-**About the Lampshade**
+## **About the Lampshade**
 
 Inspired from Robert J. Lang’s [CamphorPot8, opus 679](http://www.langorigami.com/crease-pattern/camphorpot8-opus-679) origami pattern, this Lampshade was created in Dubaï by Wendy Neale, while working at [Fab Lab UAE](http://fablabuae.ae/). It was then adapted in Wellington by Etienne Moreau ([Fab Lab Wgtn](https://www.fablabwgtn.co.nz/)) to help anyone custom their own Lampshades & run workshops!
 
 The lamp’s story is a great illustration of what we can make & achieve in an open design world with shared digital fabrication spaces all around the world available to anyone!
 
+--
 
 **Files in this repo**
 
-  - the **DIY instructions & workshop runsheet** for you to make your own lamps and/or create a workshop locally about this Lampshade
-  - the **Materials list, settings & machine specs**
+  - the [DIY instructions & workshop runsheet](DIY-instructions-workshop-runsheet.md) for you to make your own lamps and/or create a workshop locally about this Lampshade
 
+  - the [Materials list, settings & machine specs](Materials-list-settings-machine-specs.md)
 
-  - a **Lampshade template** in **.ai** (if using Illustrator) and **.dxf** format (if using another vector drawing software)
-  - **Fab Lab Wgtn’s lampshade** example in **.ai** and **.dxf** format
+  - **Fab Lab Wgtn’s ready-to-cut lampshade** example in **.ai** and **.dxf** format
+
+  - a **Lampshade template** in **.ai** and **.dxf** format to make your custom design
+
   - **others custom designs** created at Fab Lab Wgtn in **.ai** and **.dxf** format
 
+--
 
 **Machine & software used**
 
 To create our lamps, we only used:
 
-- a laser cutter (machine/process available in many Fab Labs - ours is a ILS12.150D Universal, powered with a 105W laser unit, with a bed-size of 1219.2mm x 609.7mmm)
-- Adobe Illustrator vector drawing software (a good free & open source alternative is Inkscape!)
+- a **laser cutter** (machine/process available in many Fab Labs - ours is a ILS12.150D Universal, powered with a 105W laser unit, with a bed-size of 1219.2x609.7mmm)
 
+- **Adobe Illustrator vector drawing software** (a good free & open source alternative is Inkscape!)
+
+--
 
 **Materials recommended**
 
 So far, we made great lampshades out of
 
 - **0.6mm polypropylene** (the white model) or **0.35mm colored craft paper** (the dark blue model)
+
 - and **3mm acrylic** (for the light socket fitting)
+
+--
 
 ![](/images/image1.jpg)
 
-*Fab Lab Wgtn Lampshade, made of white polypropylene with a yellow fluo acrylic fitting*
+> *Fab Lab Wgtn Lampshade, made of white polypropylene with a yellow fluo acrylic fitting*
 
 ----------
 ## **Layout of the Lampshade template**
 
-The page size is equal to our laser cutter bed size. There are 6 layers in the document and 3 art-boards (the Universal Laser print driver can deal with more than one art-board). There are also graphic styles already pre-set to prepare the file for laser cutting ( pure red 0.1 pt stroke to cut, pure green 0.1 pt stroke to make creasing lines)
+The page size is equal to our laser cutter bed size. There are 6 layers in the document and 3 art-boards (the Universal Laser print driver can deal with more than one art-board). There are also graphic styles already pre-set to prepare the file for laser cutting (pure red 0.1 pt stroke to cut, pure green 0.1 pt stroke to make creasing lines)
 
+--
 
-  - The 3 art-boards are:
+  - **The 3 art-boards are**:
+
     - art-board 1 - to cut the final lamp
+
     - art-board 2 (below) - to work on your very own lamp design
     - art-board 3 (right) - to cut the acrylic fitting
 
-  - The 6 layers are:
+--
+
+  - **The 6 layers are**:
+
     - the notes & black guides (on art-board 1)
+
     - the lamp red cutouts (on art-board 1)
+
     - the lamp green creasing lines (on art-board 1)
     - a draft layer dedicated to prep your design (on art-board 1)
+
     - the acrylic fitting (on art-board 3 - on the right side)
+
     - the logos & credits for the acrylic fitting (on art-board 3 - on the right side)
 
+--
 
-  - The thin black dotted lines are symetry guides
-  - The thick black lines are guides to align your design with the first petal of the Lampshade
+  - **Black lines are guides**:
+
+    - The thin black dotted lines are symetry guides
+
+    - The thick black lines are guides to align your design with the first petal of the Lampshade
+
+--
 
 ![](/images/image3.jpg)
 
-*what the Lampshade vector template looks like in Illustrator*
+>  *what the Lampshade vector template looks like in Illustrator*
 
 
 ![](/images/image5.jpg)
 
-*a ready-to-fold Lampshade & a finished model*
+> *a ready-to-fold Lampshade & a finished model*
 
 ----------
 ## **Workshop layout - create a “2-hour make your own lampshade” workshop**
 
-  - **original design** - Wendy Neale, based on an existing pattern by R. J. Lang
-  - **workshop creators** - Wendy Neale & Etienne Moreau (Fab Lab Wgtn)
-  - **date** - May 2018
-  - **license** - CC-SA-BY
-  - **workshop type** - hands-on workshop, 2 hours
-  - **advised number of participants** - 6
-  - **machine needed** - laser cutter with at least a 500 x 500mm bed
-  - **software needed** - vector drawing software like Inkscape or Illustrator
-  - **advised material** - for each lamp, a 500mm x 500mm piece of 0.6mm white polypropylene or 0.35mm colored paper + a 85 x 80 piece of 3mm acrylic
+- **License** - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
-![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](/images/88x31.png)
+  ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](/images/88x31.png)
+
+- **original design** - Wendy Neale, based on an existing pattern by R. J. Lang
+
+- **workshop creators** - Wendy Neale & Etienne Moreau (Fab Lab Wgtn)
+
+- **creation date** - May 2018
+
+- **workshop type** - hands-on workshop, 2 hours
+
+- **advised number of participants** - 6
+
+- **machine needed** - laser cutter with at least a 500x500mm bed
+
+- **software needed** - vector drawing software like Inkscape or Illustrator
+
+- **suggested materials** - for each lamp, a 500x500mm piece of 0.6mm white polypropylene or 0.35mm colored paper + a 85x80mm piece of 3mm acrylic
