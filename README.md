@@ -10,35 +10,29 @@ I drew up a file in Illustrator and tested it and modified it a number of times.
 
 After the four-day event, she collaborated with Etienne Moreau, Technical Demonstrator at [Fab Lab Wgtn](https://www.fablabwgtn.co.nz/) in New Zealand from February to July 2018, to work on the lamp prototype she started and create a 2-hour workshop to help people learn to make their own custom lampshades! Along with the file and material settings, you’ll find the workshop run-sheet including steps to learn how to do it on your own!
 
-![](/images/image9.jpg)
+![](/images/image9.jpg) ![](/images/image8.jpg)
 
-> *Fab Lab Wgtn Lampshade*
+> *Fab Lab Wgtn Lampshade (white model) and a custom model made by a community member (blue model)*
 
-----------
+---
 
-## **About the Lampshade**
-
-Inspired from Robert J. Lang’s [CamphorPot8, opus 679](http://www.langorigami.com/crease-pattern/camphorpot8-opus-679) origami pattern, this Lampshade was created in Dubaï by Wendy Neale, while working at [Fab Lab UAE](http://fablabuae.ae/). It was then adapted in Wellington by Etienne Moreau ([Fab Lab Wgtn](https://www.fablabwgtn.co.nz/)) to help anyone custom their own Lampshades & run workshops!
-
-The lamp’s story is a great illustration of what we can make & achieve in an open design world with shared digital fabrication spaces all around the world available to anyone!
-
---
-
-**Files in this repo**
-
-  - the [DIY instructions & workshop runsheet](DIY-instructions-workshop-runsheet.md) for you to make your own lamps and/or create a workshop locally about this Lampshade
-
-  - the [Materials list, settings & machine specs](Materials-list-settings-machine-specs.md)
-
-  - **Fab Lab Wgtn’s ready-to-cut lampshade** example in **.ai** and **.dxf** format
+## **Files in this repo**
 
   - a **Lampshade template** in **.ai** and **.dxf** format to make your custom design
 
-  - **others custom designs** created at Fab Lab Wgtn in **.ai** and **.dxf** format
+  - the [Materials list, settings & machine specs](Materials-list-settings-machine-specs.md)
 
---
+  - a [Workshop runsheet](DIY-instructions-workshop-runsheet.md) to run your own Lampshade workshop
 
-**Machine & software used**
+  - the [Instructions to hand out to participants](Instructions_participants_workshop.pdf) attending the workshop
+
+  - **Fab Lab Wgtn’s Lampshade** ready-to-cut sample in **.ai** and **.dxf** format
+
+  - **others custom designs** we made at Fab Lab Wgtn in **.ai** and **.dxf** format
+
+----
+
+## **Machine & software used**
 
 To create our lamps, we only used:
 
@@ -46,9 +40,9 @@ To create our lamps, we only used:
 
 - **Adobe Illustrator vector drawing software** (a good free & open source alternative is Inkscape!)
 
---
+---
 
-**Materials recommended**
+## **Materials recommended**
 
 So far, we made great lampshades out of
 
@@ -56,18 +50,13 @@ So far, we made great lampshades out of
 
 - and **3mm acrylic** (for the light socket fitting)
 
---
-
-![](/images/image1.jpg)
-
-> *Fab Lab Wgtn Lampshade, made of white polypropylene with a yellow fluo acrylic fitting*
 
 ----------
+
 ## **Layout of the Lampshade template**
 
 The page size is equal to our laser cutter bed size. There are 6 layers in the document and 3 art-boards (the Universal Laser print driver can deal with more than one art-board). There are also graphic styles already pre-set to prepare the file for laser cutting (pure red 0.1 pt stroke to cut, pure green 0.1 pt stroke to make creasing lines)
 
---
 
   - **The 3 art-boards are**:
 
@@ -95,7 +84,7 @@ The page size is equal to our laser cutter bed size. There are 6 layers in the d
 
   - **Black lines are guides**:
 
-    - The thin black dotted lines are symetry guides
+    - The thin grey dotted lines are symetry guides
 
     - The thick black lines are guides to align your design with the first petal of the Lampshade
 
